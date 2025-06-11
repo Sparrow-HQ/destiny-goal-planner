@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uODgmNxEe8c=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\repos\\destiny-goal-planner\\goalplanner\\destinygoalplanner\\destinygoalplanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DisJo\\.nuget\\packages\\microsoft.web.webview2\\1.0.3296.44\\microsoft.web.webview2.1.0.3296.44.nupkg.sha512"
+  ],
+  "logs": []
+}
